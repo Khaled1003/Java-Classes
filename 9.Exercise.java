@@ -10,7 +10,7 @@ public class Exercise3 {
         String Category;
 
         System.out.print("Please Type Product ID: ");
-        ID= nput.nextInt();
+        ID = nput.nextInt();
         System.out.print("Put Price: ");
         Price = nput.nextInt();
         System.out.print("Title: ");
